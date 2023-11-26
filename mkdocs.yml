@@ -30,9 +30,11 @@ theme:
       accent: lime
 nav:
     - Home: index.md
-    #- Notebook page: fichier_notebook.ipynb
-    #- Python file: exo.py
-    #- Page 2: page2.md
+    #- Nombres et calculs: fichier_notebook.ipynb
+    #- Géométrie: exo.py
+    #- Fonctions: page2.md
+    #- Statistiques et probabilités: page3.md
+    #- Algorithmique et programmation: page4.md
 
 plugins:
   - mkdocs-jupyter
