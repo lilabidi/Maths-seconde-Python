@@ -38,6 +38,7 @@ nav:
 
 plugins:
   - mkdocs-jupyter
+  - search
 
 extra:
   social:
