@@ -1,7 +1,8 @@
-site_name: My Docs learning
+site_name: Python pour les Maths
 
 theme:
   name: material
+  logo: 'images/Python-logo.png'
   features:
     - navigation.tabs
     - navigation.sections
@@ -12,7 +13,8 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  language: en
+
+  language: fr
   palette:
     - scheme: default
       toggle:
