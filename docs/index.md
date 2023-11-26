@@ -6,9 +6,7 @@ En programmation, chaque ligne de code est une démonstration mathématique de l
 
 * [Python doctor](https://python.doctor/)
 
-## Project
+## Crédit
 
-    mon_projet.yml    # c'est mon premier projet.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    Merci pour Sesamath pour la qualité de ses exercices
+    Lien pour retrouver les exercice [Sesamath](https://manuel.sesamath.net/numerique/?ouvrage=ms2_2023)
