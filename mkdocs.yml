@@ -32,7 +32,7 @@ nav:
     - Home: index.md
     - Nombres et calculs: nombres_et_calculs.ipynb
     #- Géométrie: exo.py
-    #- Fonctions: page2.md
+    - Fonctions: fonctions.ipynb
     #- Statistiques et probabilités: page3.md
     #- Algorithmique et programmation: page4.md
 
